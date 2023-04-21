@@ -9,7 +9,6 @@ class steel extends Metal {
 class iron extends Metal {
     public int getEndurance() {
         return 30;
-
     }
 }
 class copper extends Metal {
